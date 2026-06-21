@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gadgets.chickenkiller.com/sitemap.xml
+Sitemap: https://gadgets.chickenkiller.com/sitemap.html
